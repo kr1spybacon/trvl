@@ -1,9 +1,3 @@
 # How to use
 
-Switch to `dev` branch
-
-In terminal, run
-`npm install`
-`npm start`
-
-Go to https://localhost:3000
+Visit [travel-and-weather.netlify.app](travel-and-weather.netlify.app)
